@@ -1,4 +1,4 @@
-# blog-api-projects
+# blog-api-project
 Api for creating simple blogs
 
 To get started with this project, follow these steps:
